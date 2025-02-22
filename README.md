@@ -1,6 +1,6 @@
 # I am PixEthos!
 
-![PixEthos's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixEthos&show_icons=true&theme=dark#gh-light-mode-only)
+![PixEthos's GitHub stats](https://github-readme-stats.vercel.app/api?username=PixEthos&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixEthos&layout=donut-vertical)
 
